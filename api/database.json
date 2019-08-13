@@ -1,0 +1,28 @@
+{
+    "employees": [
+        { "id": 1, 
+        "name": "Tom Harrison", 
+        "departmentID": 1,
+        "computerID": 1 },
+        { "id": 1, 
+        "name": "Scott Nelson", 
+        "departmentID": 1,
+        "computerID": 1 }
+    ],
+    "departments": [
+        { "id": 1, 
+        "name": "Information Technology"},
+        { "id": 2, 
+        "name": "Marketing"}
+    ],
+    "computers": [
+        { "id": 1, 
+        "brand": "Apple",
+        "model": "MacBook Pro",
+        "yearManu": "2016"},
+        { "id": 2, 
+        "brand": "Dell",
+        "model": "XPS 15",
+        "yearManu": "2018"}
+      ]
+}
