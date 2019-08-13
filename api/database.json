@@ -2,12 +2,12 @@
     "employees": [
         { "id": 1, 
         "name": "Tom Harrison", 
-        "departmentID": 1,
-        "computerID": 1 },
+        "departmentId": 1,
+        "computerId": 1 },
         { "id": 1, 
         "name": "Scott Nelson", 
-        "departmentID": 1,
-        "computerID": 1 }
+        "departmentId": 2,
+        "computerId": 2 }
     ],
     "departments": [
         { "id": 1, 
